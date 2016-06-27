@@ -14,7 +14,7 @@ gem 'oasobi'
 
 And then execute:
 
-    $ bundle
+    $ bundle exec bin/oasobi COMMAND
 
 Or install it yourself as:
 
