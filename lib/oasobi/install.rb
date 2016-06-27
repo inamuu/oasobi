@@ -4,6 +4,9 @@ module Oasobi
     def installpack
       packages = [
         'sl',
+        'cowsay',
+        'cmatrix',
+        'sysvbanner'
       ]
 
       packages.each do | list |
