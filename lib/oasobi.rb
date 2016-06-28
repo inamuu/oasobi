@@ -8,6 +8,7 @@ require "oasobi/sl"
 require "oasobi/cowsay"
 require "oasobi/starwars"
 require "oasobi/cmatrix"
+require "oasobi/banner"
 
 module Oasobi 
 end
