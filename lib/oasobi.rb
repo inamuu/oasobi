@@ -11,7 +11,6 @@ require "oasobi/cmatrix"
 require "oasobi/banner"
 require "oasobi/rev"
 require "oasobi/rig"
-require "oasobi/unchi"
 
 module Oasobi 
 end
