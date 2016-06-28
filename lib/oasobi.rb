@@ -1,5 +1,6 @@
 #require "oasobi/version"
 require "thor"
+require "yaml"
 require "oasobi/install"
 require "oasobi/cli"
 require "oasobi/sl"
