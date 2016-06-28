@@ -5,7 +5,9 @@ Welcome to my gem! This is collected some joke commands.
 ## Installation
 
 ```ruby
+
 gem 'oasobi'
+
 ```
 
 And then execute:
