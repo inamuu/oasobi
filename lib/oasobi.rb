@@ -9,6 +9,7 @@ require "oasobi/cowsay"
 require "oasobi/starwars"
 require "oasobi/cmatrix"
 require "oasobi/banner"
+require "oasobi/rev"
 
 module Oasobi 
 end
