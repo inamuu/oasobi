@@ -3,3 +3,4 @@ packages:
  - cowsay
  - fortune
  - cmatrix
+ - rig

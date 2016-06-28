@@ -10,6 +10,7 @@ require "oasobi/starwars"
 require "oasobi/cmatrix"
 require "oasobi/banner"
 require "oasobi/rev"
+require "oasobi/rig"
 
 module Oasobi 
 end
