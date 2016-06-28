@@ -1,4 +1,5 @@
 packages:
  - sl
  - cowsay
+ - fortune
  - cmatrix
