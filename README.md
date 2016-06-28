@@ -22,17 +22,27 @@ First of all, You must execute bellow command.
 
 ```ruby
 
-$ bundle exec bin/oasobi installpack
+$ bundle exec bin/oasobi install
 
 ```
 
-## Help
+## Help command
 
 ```ruby
 
-$ bundle exec bin/oasobi COMMAND
+$ bundle exec bin/oasobi help
 
 ``` 
+
+## Uninstall
+
+If you want to remove packages.
+
+```ruby
+
+$ bundle exec bin/oasobi uninstall
+
+```
 
 ## Development
 
